@@ -1,3 +1,4 @@
+<img src="../assets/ethvm-logo.png" width="80px"/>
 
 # BOUNTY: Create Hardhat plugin
 ## Overview
@@ -51,9 +52,9 @@ graphQLClient.request(mutation, variables).then((data) => {
 ```
 For information to create a Hardhat plugin, please read the official [Hardhat documentations](https://hardhat.org/plugins/).
 
-You can find examples for `input.json` and `configs.json `files here.
+You can find examples for `input.json` and `configs.json `files [here](https://github.com/MyEtherWallet/eth-denver-2022-bounty/tree/main/plugin-helpers/contract-verify-sample).
 
-You can locate [unverified contracts here](), that you can use for development and testing
+You can locate [unverified contracts here](https://github.com/MyEtherWallet/eth-denver-2022-bounty/tree/main/plugin-helpers/unverified-contracts), that you can use for development and testing
 
 
 ## Judging Criteria
