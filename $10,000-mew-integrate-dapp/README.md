@@ -8,7 +8,7 @@ Create any DApp using tools provided by MEW, and make it compatible with the cur
 The reward will be split between in-person and virtual contestants.
 
 ## Specs:
-You can be as creative as you would like. We only ask that you use our UI components library. If you are not sure where to begin, you can read DApp integration [guide]().
+You can be as creative as you would like. We only ask that you use our UI components library. If you are not sure where to begin, you can read DApp integration [guide](https://github.com/MyEtherWallet/MyEtherWallet/blob/main/src/dapps/DAPP_INTEGRATION.md).
 
 *Links:*
 
