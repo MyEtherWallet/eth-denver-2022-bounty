@@ -18,5 +18,4 @@ You can be as creative as you would like. We only ask that you use our UI compon
 - User Experience (40%) — How intuitive and understandable the feature implementation is for potential users.
 
 ## Submission
-To submit your implementation, create a pr to the EthVM block explorer. You can directly put your app folder in the core next to the newclient folder.
-
+To submit your implementation, create a pr to the MyEtherWallet that points to develop. 
