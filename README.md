@@ -1,3 +1,4 @@
+<img src="./assets/mew-dark.png" width="300px"/>
 
 # MyEtherWallet (MEW) ETH Denver 2022  Bounties
 
