@@ -1,3 +1,4 @@
+<img src="../assets/ethvm-logo.png" width="80px"/>
 
 # BOUNTY: Add Balance Changes Graphs 
 ## Overview
