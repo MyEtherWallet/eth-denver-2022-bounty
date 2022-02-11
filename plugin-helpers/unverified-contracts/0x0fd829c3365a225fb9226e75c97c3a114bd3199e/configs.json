@@ -1,0 +1,12 @@
+{
+  "name": "ClaimsProxy",
+  "compiler": "v0.7.5+commit.eb77ed08",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "00000000000000000000000065f7ba4ec257af7c55fd5854e5f6356bbd0fb8ec0000000000000000000000005aa653a076c1dbb47cec8c1b4d152444cad9194100000000000000000000000001d3348601968ab85b4bb028979006eac235a588000000000000000000000000b9431e19b29b952d9358025f680077c3fd37292f",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x0fd829c3365a225fb9226e75c97c3a114bd3199e"
+}

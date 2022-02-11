@@ -1,0 +1,12 @@
+{
+  "name": "InvitationToKindness",
+  "compiler": "v0.8.9+commit.e5eed63a",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "c51200960db833b240644e523617dfdbf829209cb3edcb8fd9767aa6b06abf2aa0418f4ee4f69c524a3d675cf8fb0c7ac46bff65159828f62932fbb42510ba0b000000000000000000000000f82d9b6853a103c17a04d8d2cea9401ce31542310000000000000000000000000000000000000000000000000000000000000307",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf1ab05dc0829903c65690dc8e936b02888e7e52e"
+}

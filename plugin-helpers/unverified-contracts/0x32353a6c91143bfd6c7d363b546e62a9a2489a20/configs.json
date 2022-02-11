@@ -1,0 +1,12 @@
+{
+  "name": "AdventureGold",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x32353a6c91143bfd6c7d363b546e62a9a2489a20"
+}

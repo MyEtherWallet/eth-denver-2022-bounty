@@ -1,0 +1,12 @@
+{
+  "name": "YieldFarmGenericToken",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": true,
+  "runs": 1000,
+  "constructorBytes": "000000000000000000000000618679df9efcd19694bb1daa8d00718eacfa2883000000000000000000000000d779eea9936b4e323cddff2529eb6f13d0a4d66e0000000000000000000000003f148612315aae2514ac630d6faf0d94b8cd8e330000000000000000000000002ddddddcea12b277aaaa4da6ae65e9cc1e53c430",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xcba851105bfa485e390fbd456b9190824ae1212a"
+}

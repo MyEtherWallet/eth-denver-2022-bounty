@@ -1,0 +1,12 @@
+{
+  "name": "QuantstampToken",
+  "compiler": "v0.4.18+commit.9cf6e910",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "00000000000000000000000092af6067f7fe2ae488439c2b79ef7f8fc57e5ad3",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x99ea4db9ee77acd40b119bd1dc4e33e1c070b80d"
+}

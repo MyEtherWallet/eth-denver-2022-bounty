@@ -1,0 +1,12 @@
+{
+  "name": "WyvernProxyRegistry",
+  "compiler": "v0.4.23+commit.124ca40d",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xa5409ec958c83c3f309868babaca7c86dcb077c1"
+}

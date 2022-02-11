@@ -1,0 +1,12 @@
+{
+  "name": "TransparentUpgradeableProxy",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000b5ec42f1b60367d4cd608cf1bc105774c1b6b35d0000000000000000000000009ed27d7f260ee52668b209a15159045011c8d007",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x0fa10d440522d4235c55811dc1adf4a875c16d00"
+}

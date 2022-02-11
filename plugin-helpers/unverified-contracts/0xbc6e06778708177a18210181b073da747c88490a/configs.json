@@ -1,0 +1,12 @@
+{
+  "name": "SyndicateERC20",
+  "compiler": "v0.8.1+commit.df193b15",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000a71692d3dc79b0f5843cdb16b0eafb0b54e4dd0d00000000000000000000000000000000000000000000000000000002540be4000000000000000000000000008e75aee46961019a66a88670ec18f022b8ef815e",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xbc6e06778708177a18210181b073da747c88490a"
+}

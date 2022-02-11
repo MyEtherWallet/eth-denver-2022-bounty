@@ -1,0 +1,12 @@
+{
+  "name": "CunningWolfSociety",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 300,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xd08b02a76552fa54d8616f8d42c3cf0de3c0a9ec"
+}

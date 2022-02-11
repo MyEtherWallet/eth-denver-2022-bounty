@@ -1,0 +1,12 @@
+{
+  "name": "PublicResolver",
+  "compiler": "v0.5.16+commit.9c3226ce",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "00000000000000000000000000000000000c2e074ec69a0dfb2997ba6c7d2e1e",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x4976fb03c32e5b8cfe2b6ccb31c09ba78ebaba41"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "GenieSwap",
+  "compiler": "v0.8.4+commit.c7e474f2",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "00000000000000000000000003660bce8fb9f76d4b87c406c264e5e70d4186340000000000000000000000006a53e553e2ee4562efda99ba215ed65505faeee8000000000000000000000000073ab1c0cad3677cde9bdb0cdeedc2085c029579",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x0a267cf51ef038fc00e71801f5a524aec06e4f07"
+}

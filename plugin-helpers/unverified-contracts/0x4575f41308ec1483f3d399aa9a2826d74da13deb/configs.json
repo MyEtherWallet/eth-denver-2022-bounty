@@ -1,0 +1,12 @@
+{
+  "name": "OrchidToken",
+  "compiler": "v0.5.12+commit.7709ece9",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x4575f41308ec1483f3d399aa9a2826d74da13deb"
+}

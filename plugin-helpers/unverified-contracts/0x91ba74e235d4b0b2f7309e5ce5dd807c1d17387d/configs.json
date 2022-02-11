@@ -1,0 +1,12 @@
+{
+  "name": "McdonalsApplication",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x91ba74e235d4b0b2f7309e5ce5dd807c1d17387d"
+}

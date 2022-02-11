@@ -1,0 +1,12 @@
+{
+  "name": "BrokenSeaDAO",
+  "compiler": "v0.8.2+commit.661d1103",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x2a0acf0c4b6c3dd67c3828e099a843ab08a6b72e"
+}

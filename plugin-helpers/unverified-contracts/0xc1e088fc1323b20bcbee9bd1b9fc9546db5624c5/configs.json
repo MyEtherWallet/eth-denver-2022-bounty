@@ -1,0 +1,12 @@
+{
+  "name": "Diamond",
+  "compiler": "v0.7.6+commit.7338295f",
+  "optimization": true,
+  "runs": 1000,
+  "constructorBytes": "000000000000000000000000925753106fcdb6d2f30c3db295328a0a1c5fd1d1",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0xc1e088fc1323b20bcbee9bd1b9fc9546db5624c5"
+}

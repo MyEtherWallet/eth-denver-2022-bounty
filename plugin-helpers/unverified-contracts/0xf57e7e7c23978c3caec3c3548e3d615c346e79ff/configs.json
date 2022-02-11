@@ -1,0 +1,12 @@
+{
+  "name": "IMXToken",
+  "compiler": "v0.8.0+commit.c7dfd78e",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000e9df50db94a4c0b75d0df9a768a37a935c201d05",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf57e7e7c23978c3caec3c3548e3d615c346e79ff"
+}

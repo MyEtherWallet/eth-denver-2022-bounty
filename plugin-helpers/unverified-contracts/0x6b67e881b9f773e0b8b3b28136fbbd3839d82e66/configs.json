@@ -1,0 +1,12 @@
+{
+  "name": "FETA",
+  "compiler": "v0.8.4+commit.c7e474f2",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x6b67e881b9f773e0b8b3b28136fbbd3839d82e66"
+}

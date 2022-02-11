@@ -1,0 +1,12 @@
+{
+  "name": "A0K1Credits",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000a7817b07ad491f032232caf477d880113967a420",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xe4462eb568e2dfbb5b0ca2d3dbb1a35c9aa98aad"
+}

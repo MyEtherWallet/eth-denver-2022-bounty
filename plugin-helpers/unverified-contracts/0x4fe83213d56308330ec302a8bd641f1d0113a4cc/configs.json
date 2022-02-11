@@ -1,0 +1,12 @@
+{
+  "name": "NuCypherToken",
+  "compiler": "v0.7.0+commit.9e61f92b",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "00000000000000000000000000000000000000000c8deb5a6116cca825b9dbb2",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x4fe83213d56308330ec302a8bd641f1d0113a4cc"
+}

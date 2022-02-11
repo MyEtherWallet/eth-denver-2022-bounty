@@ -1,0 +1,12 @@
+{
+  "name": "ProxyERC20",
+  "compiler": "v0.4.25+commit.59dbf8f1",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000b64ff7a4a33acdf48d97dab0d764afd0f6176882",
+  "evmVersion": "default",
+  "library": "SafeDecimalMath:84d626b2bb4d0f064067e4bf80fce7055d8f3e7b",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xc011a73ee8576fb46f5e1c5751ca3b9fe0af2a6f"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "DEADRINGERSEDITION",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 300,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0xc4c377565a4b9eb6e657c2422bd33b6e4859b041"
+}

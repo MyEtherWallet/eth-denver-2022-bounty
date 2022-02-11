@@ -1,0 +1,12 @@
+{
+  "name": "HEX",
+  "compiler": "v0.5.13+commit.5b0b510c",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39"
+}

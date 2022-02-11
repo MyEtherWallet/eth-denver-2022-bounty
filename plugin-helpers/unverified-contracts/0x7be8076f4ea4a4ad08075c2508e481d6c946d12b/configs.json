@@ -1,0 +1,12 @@
+{
+  "name": "WyvernExchange",
+  "compiler": "v0.4.23+commit.124ca40d",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000a5409ec958c83c3f309868babaca7c86dcb077c1000000000000000000000000e5c783ee536cf5e63e792988335c4255169be4e1000000000000000000000000056017c55ae7ae32d12aef7c679df83a85ca75ff000000000000000000000000a839d4b5a36265795eba6894651a8af3d0ae2e68",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x7be8076f4ea4a4ad08075c2508e481d6c946d12b"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "AppProxyUpgradeable",
+  "compiler": "v0.4.24+commit.e67f0147",
+  "optimization": true,
+  "runs": 10000,
+  "constructorBytes": "0000000000000000000000008a83d4bce45b4c4f751f76cf565953d1e4a3bf0abf8491150dafc5dcaee5b861414dca922de09ccffa344964ae167212e8c673ae00000000000000000000000000000000000000000000000000000000000000600000000000000000000000000000000000000000000000000000000000000000",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84"
+}

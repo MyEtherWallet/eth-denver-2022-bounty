@@ -1,0 +1,12 @@
+{
+  "name": "Parmesan",
+  "compiler": "v0.8.10+commit.fc410830",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xd4e8b59e0300a6ebe96e0930fa0be760c4422794"
+}

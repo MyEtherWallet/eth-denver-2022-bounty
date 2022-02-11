@@ -1,0 +1,12 @@
+{
+  "name": "KryllToken",
+  "compiler": "v0.4.23+commit.124ca40d",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x464ebe77c293e473b48cfe96ddcf88fcf7bfdac0"
+}

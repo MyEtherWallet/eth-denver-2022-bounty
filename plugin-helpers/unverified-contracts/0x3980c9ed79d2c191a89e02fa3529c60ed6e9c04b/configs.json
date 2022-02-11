@@ -1,0 +1,12 @@
+{
+  "name": "L1ChugSplashProxy",
+  "compiler": "v0.8.9+commit.e5eed63a",
+  "optimization": true,
+  "runs": 10000,
+  "constructorBytes": "000000000000000000000000dd6ffc7d9a4fb420b637747edc6456340d12d377",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x3980c9ed79d2c191a89e02fa3529c60ed6e9c04b"
+}

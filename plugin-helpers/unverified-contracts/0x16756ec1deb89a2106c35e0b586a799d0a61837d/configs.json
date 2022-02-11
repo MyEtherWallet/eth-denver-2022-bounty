@@ -1,0 +1,12 @@
+{
+  "name": "CheddaToken",
+  "compiler": "v0.8.5+commit.a4f2e591",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x16756ec1deb89a2106c35e0b586a799d0a61837d"
+}

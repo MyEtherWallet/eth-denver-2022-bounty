@@ -1,0 +1,12 @@
+{
+  "name": "MainchainGatewayProxy",
+  "compiler": "v0.5.17+commit.d19bba13",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "0000000000000000000000008407dc57739bcda7aa53ca6f12f82f9d51c2f21e00000000000000000000000033e71e649abdc09f650ad44139674828a2075ad2",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x1a2a1c938ce3ec39b6d47113c7955baa9dd454f2"
+}

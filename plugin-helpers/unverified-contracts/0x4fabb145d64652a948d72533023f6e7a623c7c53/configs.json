@@ -1,0 +1,12 @@
+{
+  "name": "AdminUpgradeabilityProxy",
+  "compiler": "v0.4.24+commit.e67f0147",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "0000000000000000000000005864c777697Bf9881220328BF2f16908c9aFCD7e",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53"
+}

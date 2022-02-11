@@ -1,0 +1,12 @@
+{
+  "name": "ENSRegistryWithFallback",
+  "compiler": "v0.5.16+commit.9c3226ce",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000314159265dd8dbb310642f98f50c066173c1259b",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x00000000000c2e074ec69a0dfb2997ba6c7d2e1e"
+}

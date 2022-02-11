@@ -1,0 +1,12 @@
+{
+  "name": "SmoothLovePotion",
+  "compiler": "v0.5.17+commit.d19bba13",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "0000000000000000000000001a2a1c938ce3ec39b6d47113c7955baa9dd454f2",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xcc8fa225d80b9c7d42f96e9570156c65d6caaa25"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "AugustusSwapper",
+  "compiler": "v0.7.5+commit.eb77ed08",
+  "optimization": true,
+  "runs": 1000000,
+  "constructorBytes": "0000000000000000000000007f0af2bdfccbfdb0704dcc155f4a9453d2097289",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0xdef171fe48cf0115b1d80b88dc8eab59176fee57"
+}

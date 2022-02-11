@@ -1,0 +1,12 @@
+{
+  "name": "L1BridgeZap",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": true,
+  "runs": 10000,
+  "constructorBytes": "000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc20000000000000000000000001116898dda4015ed8ddefb84b6e8bc24528af2d80000000000000000000000002796317b0ff8538f253012862c06787adfb8ceb6",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x6571d6be3d8460cf5f7d6711cd9961860029d85f"
+}

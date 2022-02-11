@@ -1,0 +1,12 @@
+{
+  "name": "LooksRareToken",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 888888,
+  "constructorBytes": "000000000000000000000000b5ea630070d885160323576db6bc86856e40462c000000000000000000000000000000000000000000a56fa5b99019a5c80000000000000000000000000000000000000000000000033b2e3c9fd0803ce8000000",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf4d2888d29d722226fafa5d9b24f9164c092421e"
+}
