@@ -1,3 +1,5 @@
+<img src="../assets/ethvm-logo.png" width="80px"/>
+
 # BOUNTY: Create Truffle plugin
 ## Overview
 Our team recently created [a project](https://github.com/EthVM/evm-source-verification) that holds verified contract information and the added ability to verify contracts on the fly using [EthVM's API](https://api.ethvm.com/). Create a [Truffle](https://trufflesuite.com/index.html) plugin to verify smart contracts so it is available for the whole world without any restrictions on Github.
