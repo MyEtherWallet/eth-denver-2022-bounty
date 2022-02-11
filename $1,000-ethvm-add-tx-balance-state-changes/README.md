@@ -1,3 +1,4 @@
+<img src="../assets/ethvm-logo.png" width="80px"/>
 
 # BOUNTY: Add Tx Balance State Changes
 ## Overview
