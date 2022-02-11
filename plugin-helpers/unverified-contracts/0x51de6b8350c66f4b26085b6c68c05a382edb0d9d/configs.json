@@ -1,0 +1,12 @@
+{
+  "name": "AmericanChedda",
+  "compiler": "v0.8.10+commit.fc410830",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x51de6b8350c66f4b26085b6c68c05a382edb0d9d"
+}

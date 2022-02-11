@@ -1,0 +1,12 @@
+{
+  "name": "YFI",
+  "compiler": "v0.5.17+commit.d19bba13",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x0bc529c00c6401aef6d220be8c6ea1667f6ad93e"
+}

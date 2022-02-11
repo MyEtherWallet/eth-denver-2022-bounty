@@ -1,0 +1,12 @@
+{
+  "name": "GrumpyPandaz",
+  "compiler": "v0.8.11+commit.d7f03943",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "cbdc5d56b87a433102ede7397f9758bf8272346b8abc072579a500ee6515ba83",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x72a1469d6eddc4dc7292b070b0570abab4a1175a"
+}

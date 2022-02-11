@@ -1,0 +1,12 @@
+{
+  "name": "RollupProcessor",
+  "compiler": "v0.6.10+commit.00c0fcaf",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000dcc80db987bf63f01b7bafced6230de5002ef87400000000000000000000000000000000000000000000000000000000000011d000000000000000000000000000000000000000000000000000000000000012c0000000000000000000000000fcf75295f242c4e87203abb5d7c9bbeda90a8895",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x737901bea3eeb88459df9ef1be8ff3ae1b42a2ba"
+}

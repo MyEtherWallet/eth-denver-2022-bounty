@@ -1,0 +1,12 @@
+{
+  "name": "CLIFFTAMA",
+  "compiler": "v0.8.9+commit.e5eed63a",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xb7fd1cbb9768980ad4464f04ccf48604a5b4d67c"
+}

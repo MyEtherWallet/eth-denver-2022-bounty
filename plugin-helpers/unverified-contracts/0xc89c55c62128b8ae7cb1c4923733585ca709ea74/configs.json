@@ -1,0 +1,12 @@
+{
+  "name": "VLaunch",
+  "compiler": "v0.8.11+commit.d7f03943",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000bf54efdff72cdd3de7b219bb8b41332a6cc96c9e",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xc89c55c62128b8ae7cb1c4923733585ca709ea74"
+}

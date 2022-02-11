@@ -1,0 +1,12 @@
+{
+  "name": "CardManager",
+  "compiler": "v0.8.9+commit.e5eed63a",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000442b153f6f61c0c99a33aa4170dcb31e1abda1d000000000000000000000000055700cd2e91f39bc56f589b346dac12a7907ea08000000000000000000000000edbb9c61198d27c771904bc6b33f96ed35c8587e",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x1aa1721906d500fae4ed78a3534a40a69d29dfde"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "lcxToken",
+  "compiler": "v0.5.4+commit.9549d8ff",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000000000000000000000000000000000003b9aca00",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x037a54aab062628c9bbae1fdb1583c195585fe41"
+}

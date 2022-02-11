@@ -1,0 +1,12 @@
+{
+  "name": "ScrubbyApeArtwork",
+  "compiler": "v0.8.11+commit.d7f03943",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x11c7704157db1a8ee09fdde9ae0bda0ad60dc0a9"
+}

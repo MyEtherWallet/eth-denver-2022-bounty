@@ -1,0 +1,12 @@
+{
+  "name": "SamuraiSaga",
+  "compiler": "v0.8.9+commit.e5eed63a",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000000000000000000000000000000000000000270f",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x345c2fa23160c63218dfaa25d37269f26c85ca47"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "GnosisSafeProxy",
+  "compiler": "v0.7.6+commit.7338295f",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000d9Db270c1B5E3Bd161E8c8503c55cEABeE709552",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x0e4bbce01df387e53b01b85910126999e1cf54fa"
+}

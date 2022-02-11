@@ -1,0 +1,12 @@
+{
+  "name": "NonfungiblePositionManager",
+  "compiler": "v0.7.6+commit.7338295f",
+  "optimization": true,
+  "runs": 2000,
+  "constructorBytes": "0000000000000000000000001f98431c8ad98523631ae4a59f267346ea31f984000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2000000000000000000000000ee6a57ec80ea46401049e92587e52f5ec1c24785",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88"
+}

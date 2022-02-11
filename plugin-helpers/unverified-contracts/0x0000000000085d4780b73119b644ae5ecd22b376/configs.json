@@ -1,0 +1,12 @@
+{
+  "name": "OwnedUpgradeabilityProxy",
+  "compiler": "v0.4.23+commit.124ca40d",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x0000000000085d4780b73119b644ae5ecd22b376"
+}

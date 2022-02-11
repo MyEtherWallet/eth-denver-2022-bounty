@@ -1,0 +1,12 @@
+{
+  "name": "BuryBone",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": true,
+  "runs": 5000,
+  "constructorBytes": "0000000000000000000000009813037ee2218799597d83d4a5b6f3b6778218d9",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf7a0383750fef5abace57cc4c9ff98e3790202b3"
+}

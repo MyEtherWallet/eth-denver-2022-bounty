@@ -1,0 +1,12 @@
+{
+  "name": "DepositManagerProxy",
+  "compiler": "v0.5.11+commit.c082d0b4",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000d505c3822c787d51d5c2b1ae9adb943b2304eb2300000000000000000000000033a02e6cc863d393d6bf231b697b82f6e499ca7100000000000000000000000086e4dc95c7fbdbf52e33d563bbdb00823894c2870000000000000000000000006e7a5820bad6ceba8ef5ea69c0c92ebbdac9ce48",
+  "evmVersion": "constantinople",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x401f6c983ea34274ec46f84d70b31c151321188b"
+}

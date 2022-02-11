@@ -1,0 +1,12 @@
+{
+  "name": "LnProxyERC20",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "00000000000000000000000074e5d6c26dfbeb647dfe36f44fee805bafefbfc0",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x3e9bc21c9b189c09df3ef1b824798658d5011937"
+}

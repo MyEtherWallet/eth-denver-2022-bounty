@@ -1,0 +1,12 @@
+{
+  "name": "SlimHoods",
+  "compiler": "v0.8.2+commit.661d1103",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000e73d0696b127b448fc8b380ceba3ab47996e1c830000000000000000000000002c90f88be812349fdd5655c9bad8288c03e7fb23",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x2931b181ae9dc8f8109ec41c42480933f411ef94"
+}

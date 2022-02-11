@@ -1,0 +1,12 @@
+{
+  "name": "GenF",
+  "compiler": "v0.8.11+commit.d7f03943",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000a601aed34dda12ff760d8abb64fd4eb3664e35af",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x369156da04b6f313b532f7ae08e661e402b1c2f2"
+}

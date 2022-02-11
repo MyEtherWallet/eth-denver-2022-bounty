@@ -1,0 +1,12 @@
+{
+  "name": "BuryShib",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": true,
+  "runs": 5000,
+  "constructorBytes": "00000000000000000000000095ad61b0a150d79219dcf64e1e6cc01f0b64c4ce",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xb4a81261b16b92af0b9f7c4a83f1e885132d81e4"
+}

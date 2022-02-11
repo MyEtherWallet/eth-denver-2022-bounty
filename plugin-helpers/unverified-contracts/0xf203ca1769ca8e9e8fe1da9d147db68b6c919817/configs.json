@@ -1,0 +1,12 @@
+{
+  "name": "WrappedNCG",
+  "compiler": "v0.8.0+commit.c7dfd78e",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf203ca1769ca8e9e8fe1da9d147db68b6c919817"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "AggregationRouterV4",
+  "compiler": "v0.7.6+commit.7338295f",
+  "optimization": true,
+  "runs": 1000000,
+  "constructorBytes": "000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc20000000000000000000000002e9c6dcdca22a5952a88c4b18edb5b54c5155bc9",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x1111111254fb6c44bac0bed2854e76f90643097d"
+}

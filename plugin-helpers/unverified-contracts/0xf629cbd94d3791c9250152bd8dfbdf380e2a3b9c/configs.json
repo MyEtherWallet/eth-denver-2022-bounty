@@ -1,0 +1,12 @@
+{
+  "name": "ENJToken",
+  "compiler": "v0.4.15+commit.bbb8e64f",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "0000000000000000000000009b73d1779c41dca36314fb7c4d3309838e20c4e7000000000000000000000000d3e631b1bc19f0c6d0c036484111c70ff1fa3f08000000000000000000000000f165c483ac93e567f20d11727ffa3209adf5cbc90000000000000000000000002eb794f3e37ccaa5d893c67c32d1b94f9b71131c",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf629cbd94d3791c9250152bd8dfbdf380e2a3b9c"
+}

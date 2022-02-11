@@ -1,0 +1,12 @@
+{
+  "name": "sOlympus",
+  "compiler": "v0.7.5+commit.eb77ed08",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x04f2694c8fcee23e8fd0dfea1d4f5bb8c352111f"
+}

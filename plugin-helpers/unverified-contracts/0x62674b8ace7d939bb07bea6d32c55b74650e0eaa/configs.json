@@ -1,0 +1,12 @@
+{
+  "name": "Proxy",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000bc57a7a4fbe9c3a70f705202a3617cbe037e200b",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x62674b8ace7d939bb07bea6d32c55b74650e0eaa"
+}

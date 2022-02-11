@@ -1,0 +1,12 @@
+{
+  "name": "ManagerProxy",
+  "compiler": "v0.4.18+commit.9cf6e910",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000a94e49bdbb0bfdb920ec1e441b1c408ead94c9bcfc6f6f33d2bb065ac61cbdd4dbe4b7adf6f3e7e6c6a3d1fe297cbf9a187092e4",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x511bc4556d823ae99630ae8de28b9b80df90ea2e"
+}

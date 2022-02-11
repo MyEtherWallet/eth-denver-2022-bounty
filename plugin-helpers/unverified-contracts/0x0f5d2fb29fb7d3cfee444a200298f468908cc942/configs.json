@@ -1,0 +1,12 @@
+{
+  "name": "MANAToken",
+  "compiler": "v0.4.11+commit.68ef5810",
+  "optimization": true,
+  "runs": 0,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x0f5d2fb29fb7d3cfee444a200298f468908cc942"
+}

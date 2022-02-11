@@ -1,0 +1,12 @@
+{
+  "name": "UPIToken",
+  "compiler": "v0.5.11+commit.c082d0b4",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x70d2b7c19352bb76e4409858ff5746e500f2b67c"
+}

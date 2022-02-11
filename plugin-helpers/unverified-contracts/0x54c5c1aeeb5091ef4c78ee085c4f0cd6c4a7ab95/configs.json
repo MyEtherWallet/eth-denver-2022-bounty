@@ -1,0 +1,12 @@
+{
+  "name": "CookieJar",
+  "compiler": "v0.8.4+commit.c7e474f2",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "0000000000000000000000000e0271fc583d61e7f6990a21f779a165042e4268000000000000000000000000a32210529c69cca8cfc58dbfdbf06654288462f5",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x54c5c1aeeb5091ef4c78ee085c4f0cd6c4a7ab95"
+}

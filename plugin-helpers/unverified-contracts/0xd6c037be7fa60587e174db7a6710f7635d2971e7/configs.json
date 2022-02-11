@@ -1,0 +1,12 @@
+{
+  "name": "CryptoPhunksMarket",
+  "compiler": "v0.8.10+commit.fc410830",
+  "optimization": true,
+  "runs": 1000000,
+  "constructorBytes": "000000000000000000000000f07468ead8cf26c752c676e43c814fee9c8cf402",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xd6c037be7fa60587e174db7a6710f7635d2971e7"
+}

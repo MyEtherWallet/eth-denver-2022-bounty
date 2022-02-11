@@ -1,0 +1,12 @@
+{
+  "name": "MetaMonkeyClubG",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x7ce9c7c3d5d7c39fc0e418080e081931d5754112"
+}

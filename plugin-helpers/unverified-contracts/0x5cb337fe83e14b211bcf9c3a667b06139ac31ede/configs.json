@@ -1,0 +1,12 @@
+{
+  "name": "MargotDAO",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x5cb337fe83e14b211bcf9c3a667b06139ac31ede"
+}

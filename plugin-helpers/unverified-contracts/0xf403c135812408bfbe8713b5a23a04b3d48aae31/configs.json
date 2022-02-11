@@ -1,0 +1,12 @@
+{
+  "name": "Booster",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "000000000000000000000000989aeb4d175e16225e39e87d0d97a3360524ad800000000000000000000000004e3fbd56cd56c3e72c1403e103b45db9da5b9d2b",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf403c135812408bfbe8713b5a23a04b3d48aae31"
+}

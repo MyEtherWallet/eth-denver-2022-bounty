@@ -1,0 +1,12 @@
+{
+  "name": "MXCToken",
+  "compiler": "v0.4.24+commit.e67f0147",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x5ca381bbfb58f0092df149bd3d243b08b9a8386e"
+}

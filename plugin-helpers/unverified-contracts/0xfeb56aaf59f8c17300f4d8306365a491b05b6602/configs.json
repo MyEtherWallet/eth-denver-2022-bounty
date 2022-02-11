@@ -1,0 +1,12 @@
+{
+  "name": "Beeings",
+  "compiler": "v0.8.0+commit.c7dfd78e",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xfeb56aaf59f8c17300f4d8306365a491b05b6602"
+}

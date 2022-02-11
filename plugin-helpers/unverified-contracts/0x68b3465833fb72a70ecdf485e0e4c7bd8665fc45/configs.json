@@ -1,0 +1,12 @@
+{
+  "name": "SwapRouter02",
+  "compiler": "v0.7.6+commit.7338295f",
+  "optimization": true,
+  "runs": 1000000,
+  "constructorBytes": "0000000000000000000000005c69bee701ef814a2b6a3edd4b1652cb9cc5aa6f0000000000000000000000001f98431c8ad98523631ae4a59f267346ea31f984000000000000000000000000c36442b4a4522e871399cd717abdd847ab11fe88000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x68b3465833fb72a70ecdf485e0e4c7bd8665fc45"
+}

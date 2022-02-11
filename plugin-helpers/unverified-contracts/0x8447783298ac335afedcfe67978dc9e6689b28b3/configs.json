@@ -1,0 +1,12 @@
+{
+  "name": "RewardToken",
+  "compiler": "v0.8.7+commit.e28d00a7",
+  "optimization": true,
+  "runs": 2200,
+  "constructorBytes": "000000000000000000000000750a24d8a496d98f2a8cabc68e7a4b08fa59beb8",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x8447783298ac335afedcfe67978dc9e6689b28b3"
+}

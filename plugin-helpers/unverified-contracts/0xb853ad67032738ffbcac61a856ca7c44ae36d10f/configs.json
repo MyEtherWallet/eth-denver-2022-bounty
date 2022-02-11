@@ -1,0 +1,12 @@
+{
+  "name": "Fbomb",
+  "compiler": "v0.8.4+commit.c7e474f2",
+  "optimization": true,
+  "runs": 1000,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xb853ad67032738ffbcac61a856ca7c44ae36d10f"
+}

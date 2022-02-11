@@ -1,0 +1,12 @@
+{
+  "name": "FNDCollectionFactory",
+  "compiler": "v0.8.9+commit.e5eed63a",
+  "optimization": true,
+  "runs": 1337,
+  "constructorBytes": "000000000000000000000000461aa494426e04fb2449068bad5948a0d720aef200000000000000000000000067df244584b67e8c51b10ad610aaffa9a402fdb6",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": true,
+  "chainId": "0x01",
+  "address": "0x3b612a5b49e025a6e4ba4ee4fb1ef46d13588059"
+}

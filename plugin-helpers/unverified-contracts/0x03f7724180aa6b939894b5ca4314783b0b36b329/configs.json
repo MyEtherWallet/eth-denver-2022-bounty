@@ -1,0 +1,12 @@
+{
+  "name": "UniswapV2Router02",
+  "compiler": "v0.6.12+commit.27d51765",
+  "optimization": true,
+  "runs": 5000,
+  "constructorBytes": "000000000000000000000000115934131916c8b277dd010ee02de363c09d037c000000000000000000000000c02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x03f7724180aa6b939894b5ca4314783b0b36b329"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "StakingRewards",
+  "compiler": "v0.8.11+commit.d7f03943",
+  "optimization": true,
+  "runs": 200,
+  "constructorBytes": "0000000000000000000000004a848f44146ca6d1d6aa34bcdf3c41093def17610000000000000000000000004a848f44146ca6d1d6aa34bcdf3c41093def176100000000000000000000000098585dfc8d9e7d48f0b1ae47ce33332cf4237d9600000000000000000000000098585dfc8d9e7d48f0b1ae47ce33332cf4237d96",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xbc9016c379fb218b95fe3730d5f49f3149e86cab"
+}

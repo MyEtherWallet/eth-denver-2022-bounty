@@ -1,0 +1,12 @@
+{
+  "name": "Toke",
+  "compiler": "v0.6.11+commit.5ef660b1",
+  "optimization": true,
+  "runs": 999999,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x2e9d63788249371f1dfc918a52f8d799f4a38c94"
+}

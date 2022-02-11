@@ -1,0 +1,12 @@
+{
+  "name": "chiliZ",
+  "compiler": "v0.4.24+commit.e67f0147",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x3506424f91fd33084466f402d5d97f05f8e3b4af"
+}

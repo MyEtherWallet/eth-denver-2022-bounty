@@ -1,0 +1,12 @@
+{
+  "name": "Sand",
+  "compiler": "v0.5.9+commit.e560f70d",
+  "optimization": true,
+  "runs": 2000,
+  "constructorBytes": "00000000000000000000000018dd4e0eb8699ea4fee238de41ecfb95e32272f800000000000000000000000018dd4e0eb8699ea4fee238de41ecfb95e32272f8000000000000000000000000eaa0993e1d21c2103e4f172a20d29371fbaf6d06",
+  "evmVersion": "petersburg",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0x3845badade8e6dff049820680d1f14bd3903a5d0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "TheDogePound",
+  "compiler": "v0.8.1+commit.df193b15",
+  "optimization": false,
+  "runs": 200,
+  "constructorBytes": "",
+  "evmVersion": "default",
+  "library": "",
+  "proxyContract": false,
+  "chainId": "0x01",
+  "address": "0xf4ee95274741437636e748ddac70818b4ed7d043"
+}
