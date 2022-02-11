@@ -1,4 +1,5 @@
 
+<img src="./assets/mew-logo.png" width="300px"/>
 # MyEtherWallet (MEW) ETH Denver 2022  Bounties
 
 We’re incredibly excited to announce that this year for ETH Denver we have $25,000 in bounties up for grabs! Our bounites are split between 2 of our Projects: [MyEtherWallet](https://github.com/MyEtherWallet/MyEtherWallet) - open-source, client-side interface for interacting with the Ethereum Blockchain; and [EthVM](https://github.com/EthVM/EthVM) - open source Ethereum block explorer. 
